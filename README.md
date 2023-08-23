@@ -1,4 +1,4 @@
-# Projet de Base de Données (L3 Semestre 1)
+# Projet de Base de Données (Licence 3 - Semestre 1)
 
 Projet ayant pour but de conceptualiser une base de donnée fonctionnelle pour un système de gestion de location de vélo. 
 
